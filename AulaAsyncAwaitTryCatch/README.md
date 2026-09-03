@@ -38,6 +38,6 @@ Aula AsyncAwaitTryCatch
 10 - fetch-api.js
 
 
-# Olá! Meu nome é Raphael Henrique, e sou um estudante que é focado.
+Olá! Meu nome é Raphael Henrique, e sou um estudante que é focado.
 
 $copy; 2026 Raphael. Todos os direitos reservados
