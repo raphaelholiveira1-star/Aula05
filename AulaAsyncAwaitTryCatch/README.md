@@ -1,48 +1,34 @@
-## Aula 05
-Professor: Jansen K Cara
+## AsyncAwaitTryCatch
 
-Turma: DS1A
+# Professor: Jansen K Cara 
 
-Aluno:  Raphael Henrique
+# Turma: DS1A 
 
-### Objetivo
-Desenvolver o nosso conhecimento sw HTML e CSS
+# Aluno: Raphael Henrique
 
-### Tecnologias
-- Visual Code
-- Git
-- Live Server
-!DOCTYPE html>
-<html lang="pt-br">
+# Objetivo
+Desenvolver o nosso conhecimento de ..............
+Tecnologias
+Visual Code
+Git
+JavaScript
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+A melhor turma é a DS1A
 
-<body>
-    <header>
-        <h1> A melhor turma é a DS1A</h1>
-        <h2> Aula de HTML e CSS</h2>
-        <nav>
-            <ul>
-                <li><a href="index.html">Index.html</a></li>
-                <li><a href="#Sobre">Sobre</a></li>
-                <li><a href="#contato">Contato</a></li>
-                <li><a href="#projetos">Projetos</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section id="Sobre">
-            <h2>Sobre mim</h2>
-            <p>Olá! Meu nome é Raphael, e sou um estudante que CSS e HTML</p>
-        </section>
-    </main>
-    <footer>
-        <p>$copy; 2026 Raphael. Todos os direitos reservados</p>
-    </footer>
-</body>
+Aula AsyncAwaitTryCatch
 
-</html>
+01 - sincrono.js
+02 - setimeout.js
+03 - promise.js
+04 - async-away.js
+05 - try-catch.js
+06 - login.js
+07 - buscar-aluno.js
+08 - finally.js
+09 - throw.js
+10 - fetch-api.js
+
+
+Olá! Meu nome é Raphael Henrique, e sou um estudante que é focado.
+
+$copy; 2026 Raphael. Todos os direitos reservados
