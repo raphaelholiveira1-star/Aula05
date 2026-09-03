@@ -7,7 +7,7 @@
 ## Aluno: Raphael Henrique
 
 ## Objetivo
-Desenvolver o nosso conhecimento de ..............
+Desenvolver o nosso conhecimento de JavaScript
 Tecnologias
 Visual Code
 Git
